@@ -57,3 +57,15 @@ windows下的搜索神器. 如图,搜索一下`微信`:
 - 当前目录打开命令提示符. 整在输入一些命令很方便.
 - 其他功能
 
+
+## GIF
+#### [Giffing Tool ](http://www.giffingtool.com/)
+
+## 翻译
+
+#### [QTranslate ](http://quest-app.appspot.com/)
+启动 QTranslate 后，默认配置下，鼠标选中任意文本，连点两下 Ctrl 即可激活主窗口并翻译选中的文本，或者通过 Ctrl+Q 弹出小窗口直接显示翻译结果、Ctrl+W 则显示网络搜索结果
+
+比如我在网页上选中一个单词,然后双击`ctrl`:
+![](images/qtranslate.png)
+可以看到翻译结果已经出来了. 注默认使用的是`google`翻译,在国内是打不开的,可以选择`bink`.
