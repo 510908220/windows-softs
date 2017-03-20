@@ -61,6 +61,15 @@ windows下的搜索神器. 如图,搜索一下`微信`:
 ## GIF
 #### [Giffing Tool ](http://www.giffingtool.com/)
 
+## 命令提示
+#### [ConEmu](http://conemu.github.io/)
+看图直接点:
+![](images/conemu.png)
+优点:
+- 像浏览器页签一样,方便切换.
+- 每一个打开的控制台可以命名,这样可以迅速找到需要操作的控制台.
+- 自定义背景. 弄张没图看着舒服点
+
 ## 翻译
 
 #### [QTranslate ](http://quest-app.appspot.com/)
