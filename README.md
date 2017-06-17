@@ -83,3 +83,11 @@ windows下的搜索神器. 如图,搜索一下`微信`:
 比如我在网页上选中一个单词,然后双击`ctrl`:
 ![](images/qtranslate.png)
 可以看到翻译结果已经出来了. 注默认使用的是`google`翻译,在国内是打不开的,可以选择`bink`.
+
+## 开发者工具
+
+#### [postman](https://www.getpostman.com/apps)
+
+开发者调试、测试api的工具.  官方的描述:
+`Developing APIs is hard.Postman makes it easy.`
+
