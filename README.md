@@ -70,10 +70,10 @@ windows下的搜索神器. 如图,搜索一下`微信`:
 - 每一个打开的控制台可以命名,这样可以迅速找到需要操作的控制台.
 - 自定义背景. 弄张没图看着舒服点
 - 自定义控制台,比如我现在电脑上新装了个`python3.6`,但是呢为了保留`python2.7`,我每次还得切换到`python3.6`的目录,是不是很麻烦呢. 于是乎我创建了一个`task`:
-![](images/conemu_task.png)
-每次我点击`{python3}`，就会出现如下控制台:
-![](images/conemu_new_console.png)
-自动切换到`python3.6`目录了. 当然这只是说一下这个功能.
+  ![](images/conemu_task.png)
+  每次我点击`{python3}`，就会出现如下控制台:
+  ![](images/conemu_new_console.png)
+  自动切换到`python3.6`目录了. 当然这只是说一下这个功能.
 
 ## 翻译
 
@@ -90,4 +90,12 @@ windows下的搜索神器. 如图,搜索一下`微信`:
 
 开发者调试、测试api的工具.  官方的描述:
 `Developing APIs is hard.Postman makes it easy.`
+
+#### [SwitchHosts](https://github.com/oldj/SwitchHosts)
+
+这是一个用于快速切换 hosts 文件的小程序，基于 Electron 开发，同时使用了 React、Ant Design 以及 CodeMirror 等框架/库。
+
+![](images/switchhosts.png)
+
+左侧是将`hosts`分隔为不同区域,通过`switch`按钮决定启用哪些. 不用每次手动去改动了. 左侧区域的顺序就是真正`hosts`文件里的顺序.(上面My hosts在实际内容位置就在`系统默认`的前面)
 
